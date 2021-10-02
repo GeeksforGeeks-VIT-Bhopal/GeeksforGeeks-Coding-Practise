@@ -31,6 +31,6 @@ You don't need to read input or print anything. Your task is to complete the fun
 
  
 
-Constraints:
-1 ≤ N ≤ 106
+**Constraints:**<br>
+1 ≤ N ≤ 10^6<br>
 0 ≤ Arr[i] ≤ 200
