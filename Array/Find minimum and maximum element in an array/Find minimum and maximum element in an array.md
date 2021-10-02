@@ -30,8 +30,3 @@ You don't need to read input or print anything. Your task is to complete the fun
 **Expected Time Complexity: O(N)**<br>
 **Expected Auxiliary Space: O(1)**
 
- 
-
-**Constraints:**<br>
-1 <= N <= 10^5<br>
-1 <= Ai <=10^12
