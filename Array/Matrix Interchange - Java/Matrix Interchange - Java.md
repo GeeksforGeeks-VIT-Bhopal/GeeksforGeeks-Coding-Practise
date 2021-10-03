@@ -4,15 +4,15 @@ Working with 2D arrays is quite important. Here we will do swapping of column in
 
 **Example:**
 ```
-Input:<br>
-3 4<br>
-1 2 3 4<br>
-4 3 2 1<br>
+Input:
+3 4 
+1 2 3 4 
+4 3 2 1 
 6 7 8 9
 
-Output:<br>
-4 2 3 1<br>
-1 3 2 4<br>
+Output: 
+4 2 3 1 
+1 3 2 4 
 9 7 8 6
 ```
 **Your Task:**<br>
