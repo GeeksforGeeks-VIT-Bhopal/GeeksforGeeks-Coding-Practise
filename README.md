@@ -43,9 +43,7 @@ git push
 ## Rules & FAQs
 
 1. PR with 3 different problems solved will be accepted. Not 1 problem with 3 different languages.
-2. You will be banned immediately after 3 invalid PRs.
-3. Don't just Copy Paste the code from Internet, we will review your code and then only it will be merged.
-4. Solving Issues will also be counted as contribution.
+2. Don't just Copy Paste the code from Internet, we will review your code and then only it will be merged.
 
 <hr>
 
