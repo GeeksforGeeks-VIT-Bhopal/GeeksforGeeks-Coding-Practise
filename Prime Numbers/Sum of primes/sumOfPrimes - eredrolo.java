@@ -1,7 +1,7 @@
 // Done by https://github.com/eredrolo
 import java.util.Scanner;
 
-class sumOfPrimes {
+public class sumOfPrimes {
 
     int primeSum(int N) {
         int num = 0, c = 0, sum = 0;

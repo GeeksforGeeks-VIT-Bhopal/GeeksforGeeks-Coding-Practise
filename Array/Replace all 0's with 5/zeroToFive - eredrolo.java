@@ -1,7 +1,7 @@
 // Done by https://github.com/eredrolo
 import java.util.Scanner;
 
-class zeroToFive {
+public class zeroToFive {
 
     String convertFive(int N) {
         int num = 0;

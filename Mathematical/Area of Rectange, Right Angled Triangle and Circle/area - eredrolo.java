@@ -1,7 +1,7 @@
 // Done by https://github.com/eredrolo
 import java.util.Scanner;
 
-class area {
+public class area {
 
     String getAreas(int L, int W, int B, int H, int R) {
         int rectangle = (int)(L*W);
