@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Main
 {
   public static void main (String[]args)
@@ -5,7 +7,17 @@ public class Main
 
     Solution2 object = new Solution2();
     
-    int arr[] = {1,2,3,-2,5};
+    Scanner scanner = new Scanner(System.in);
+    System.out.println("enter the limit of the array");
+    int n = scanner.nextInt();
+    
+    System.out.println("Enter the array Elements");
+    
+    int arr[] = new int[n];
+    
+    for(int i=0;i<n;i++){
+      arr[i] = scanner.nextInt();
+    }
     
     int result = object.maxSubArraySum(arr);
 
