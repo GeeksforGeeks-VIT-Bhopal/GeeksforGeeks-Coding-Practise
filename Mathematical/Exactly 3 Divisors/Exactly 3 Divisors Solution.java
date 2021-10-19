@@ -1,12 +1,18 @@
+import java.util.*;
+
 public class Main
 {
   public static void main (String[]args)
   {
-
+	  
+    Scanner scanner = new Scanner(System.in);
+    System.out.println("Enter the number you want to check ");
+    
+    int number = scanner.nextInt();
     Solution1 object = new Solution1 ();
-    int result = object.exactly3Divisors (6);
+    int result = object.exactly3Divisors (number);
 
-      System.out.println (result);
+    System.out.println (result);
   }
 }
 
